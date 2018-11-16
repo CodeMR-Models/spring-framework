@@ -1,0 +1,1 @@
+var CodeMR_ProjectMetrics = {"Project Name":"spring-framework working set: {spring-core}", "Number of Highly Problematic Classes":0, "Number of Entities":411, "Number of Problematic Classes":37, "Class Lines of Code":29527, "Number of External Packages":66, "Number of Packages":32, "Number of External Entities":399}
