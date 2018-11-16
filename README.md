@@ -4,27 +4,29 @@ This is the home of the Spring Framework: the foundation for all [Spring project
 
 Spring provides everything required beyond the Java programming language for creating enterprise applications for a wide range of scenarios and architectures. Please read the [Overview](https://docs.spring.io/spring/docs/current/spring-framework-reference/overview.html#spring-introduction) section as reference for a more complete introduction.
 
-## Code of Conduct
+# Spring Framework
+Spring Framework is the foundation for all [Spring projects](https://spring.io/projects). Collectively the Spring Framework and the family of Spring projects is often referred to simply as "Spring".
+Spring provides everything required beyond the Java programming language for creating enterprise applications for a wide range of scenarios and architectures. Please read the [Overview](https://docs.spring.io/spring/docs/current/spring-framework-reference/overview.html#spring-introduction) section as reference for a more complete introduction.
 
-This project is governed by the [Spring Code of Conduct](CODE_OF_CONDUCT.adoc). By participating, you are expected to uphold this code of conduct. Please report unacceptable behavior to spring-code-of-conduct@pivotal.io.
+## Spring Framework README
 
-## Access to Binaries
+Please see [Spring Framework README](README-Spring-Framework.md) in the root directory of the project.
 
-For access to artifacts or a distribution zip, see the [Spring Framework Artifacts](https://github.com/spring-projects/spring-framework/wiki/Spring-Framework-Artifacts) wiki page.
+CodeMR Report
+=================
 
-## Documentation
+You can download or clone the project to use the existing extracted model and graphs.
+You can create your graphs, your working sets and analyse the project based on the extracted model without limitation.
+You can download CodeMR plugins for your favorite IDE from:
+- [CodeMR for IntelliJ](https://plugins.jetbrains.com/plugin/10811-codemr)
+- [CodeMR for Eclipse](https://marketplace.eclipse.org/content/codemr-software-quality-tool)
 
-The Spring Framework maintains reference documentation ([published](http://docs.spring.io/spring-framework/docs/current/spring-framework-reference/) and [source](src/docs/asciidoc)), Github [wiki pages](https://github.com/spring-projects/spring-framework/wiki), and an
-[API reference](http://docs.spring.io/spring-framework/docs/current/javadoc-api/). There are also [guides and tutorials](https://spring.io/guides) across Spring projects.
+See CodeMR [web site](https://www.codemr.co.uk) for details on the CodeMR.
+You can download [trial license](https://www.codemr.co.uk/downloads) to try CodeMR for other projects.
 
-## Build from Source
+CodeMR model path: ./codemr/spring-framework/spring-framework.mdl
 
-See the [Build from Source](https://github.com/spring-projects/spring-framework/wiki/Build-from-Source) Wikipedia page and the [CONTRIBUTING.md](CONTRIBUTING.md) file.
 
-## Stay in Touch
+### Snapshots ###
 
-Follow [@SpringCentral](https://twitter.com/springcentral), [@SpringFramework](https://twitter.com/springframework), and its [team members](https://twitter.com/springframework/lists/team/members) on Twitter. In-depth articles can be found at [The Spring Blog](http://spring.io/blog/), and releases are announced via our [news feed](http://spring.io/blog/category/news).
-
-## License
-
-The Spring Framework is released under version 2.0 of the [Apache License](http://www.apache.org/licenses/LICENSE-2.0).
+#### Model Views ####
