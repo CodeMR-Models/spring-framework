@@ -1,6 +1,6 @@
 # CodeMR Spring Framework Analysis Project
 Spring Framework is the foundation for all [Spring projects](https://spring.io/projects). Collectively the Spring Framework and the family of Spring projects is often referred to simply as "Spring".
-Spring provides everything required beyond the Java programming language for creating enterprise applications for a wide range of scenarios and architectures. Please read the [Overview](https://docs.spring.io/spring/docs/current/spring-framework-reference/overview.html#spring-introduction) section as reference for a more complete introduction.
+Spring provides everything required beyond the Java programming language for creating enterprise applications for a wide range of scenarios and architectures.
 
 ## Spring Framework README
 
@@ -22,7 +22,35 @@ Analysis for Spring v5.1.2.RELEASE
 
 CodeMR model path: ./codemr/spring-framework/spring-framework.mdl
 
-
 ### Snapshots ###
 
-#### Model Views ####
+#### Overview #### 
+![Overview](codemr/spring-framework/snapshots/spring-model.png)
+
+#### Complexity in Sunburst View #### 
+![Spring Core Module Complexity](codemr/spring-framework/snapshots/spring_core_sunburst.png)
+
+#### Coupling in Package Structure View #### 
+![Spring Core Module Coupling](codemr/spring-framework/snapshots/spring-core_package-structure.png)
+
+#### Complexity in Treemap View #### 
+![Spring Core Module Complexity](codemr/spring-framework/snapshots/spring-core_treemap.png)
+
+#### Package Dependency  View #### 
+![Spring Core Module Dependency](codemr/spring-framework/snapshots/spring-core_dependency.png)
+
+#### Outline View #### 
+![Outline View](codemr/spring-framework/snapshots/spring-core_outline.png)
+
+#### Graph of Spring Core Module #### 
+![Spring Core Module Graph](codemr/spring-framework/snapshots/spring-core.png)
+
+#### Inheritance Graph of Spring Core Module #### 
+![Spring Core Module Inheritance Graph](codemr/spring-framework/snapshots/spring-core_inheritance.png)
+
+#### Inheritance Graph of Spring Context Module #### 
+![Spring Context Module Inheritance Graph](codemr/spring-framework/snapshots/spring-context_inheritance.png)
+
+
+
+
